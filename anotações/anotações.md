@@ -1,0 +1,1 @@
+normalize.css: o normalize tem a mesma função que o reset.css
